@@ -4,7 +4,7 @@ Play the classic video game in the browser!
 
 <img src="images/tetris.png">
 
-## Built Withimages
+## Built With
 * HTML
 * CSS
 * Javascript
@@ -16,6 +16,8 @@ To run my application simply clone the project and run the html file.
 The object of the game is to score as many points as possible by clearing 
 horizontal lines of blocks. To move the blocks press the left, right, or 
 down directional buttons. To rotate the blocks press the Q or W buttons. 
+
+Watch out, It can be quite addictive!
 
 ```Groovy
 MIT License
